@@ -55,4 +55,6 @@ freewheel.tv, 536359-r-523319, RESELLER
 # Adagio - Adform
 adform.com, 3354, RESELLER, 9f5210a2f0999e32
 
+openx.com, 664015591, DIRECT, 6a698e2ec38604c6
+openx.com, 664015591, RESELLER, 6a698e2ec38604c6
 
